@@ -1,0 +1,16 @@
+/*
+
+Client ID: 3a1996000d4e4f0ea9e91055826878e4
+Client Secret: 1cb5371b398d4cdfa07e342485d925f1
+https%3A%2F%2Fwww.practar.com%2F
+
+https://accounts.spotify.com/authorize?client_id=3a1996000d4e4f0ea9e91055826878e4&scopes=playlist-read-private&response_type=code&redirect_uri=https%3A%2F%2Fwww.practar.com%2F
+
+3a1996000d4e4f0ea9e91055826878e4:1cb5371b398d4cdfa07e342485d925f1
+
+curl -H "Authorization: Basic M2ExOTk2MDAwZDRlNGYwZWE5ZTkxMDU1ODI2ODc4ZTQ6MWNiNTM3MWIzOThkNGNkZmEwN2UzNDI0ODVkOTI1ZjE=" -d grant_type=authorization_code -d code=AQC0i0PuOEQPRowaMeOhS1KJXHs_f_OAWdo8fxKnKVt1gNOHUqIDFRCrqBqC0xzylnDnB7en2audX8jZp-Cn_lFqXWFHW1Z56r11J27RH5ZNcN2WVzPiMeZV-7FjH9LzbnzQlmnyCLgyOMHEUXV0wnjlVLIdGMWd3LxOJq41 -d redirect_uri=https%3A%2F%2Fapi-university.com https://accounts.spotify.com/api/token
+
+{"access_token":"BQDECkXUpUsiKR-_5EifabXsqPcMk-mho4Ma14EZEcG32JsT_uMcO_pMAck5OAxcytOOOmvEomrJatuAsc0Xky4Hn-dqjQ2VDffL8wBJUb9VOv8v9M7Ga8jSJWAJm8FzKGcoEhVLb3RT9UQhY_XWg0J6deS3EUcG41ZIdkd-Kg828K45d6323pt5AJW7Xk3G9j-I4XE","token_type":"Bearer","expires_in":3600,"refresh_token":"AQAvwlYvhdLlY70hkZXRlpdtUpgpGQE-tiUfaF81AhBEOF1rOBjFFyHgDewAdQk4VuGVOu2U5puVQOAeyjk90DnlGk9T-sf4ru9d_EQX510EsMiLxBvbUflK_lDMqmyfuRg"}
+
+
+*/
